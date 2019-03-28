@@ -1,1 +1,14 @@
+title: The world
+description: Enable the world
+show_downloads: false
+google_analytics: UA-137009477-1
+
+email: 380501585@qq.com
+
+markdown: kramdown
 theme: jekyll-theme-hacker
+paginate: 10
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
